@@ -1,6 +1,6 @@
 # Growth Audit — Kindroid
 
-**Live:** https://hribeiro-adapty.github.io/kendroid-flow-rebuild/
+**Live:** https://hribeiro-adapty.github.io/kindroid-flow-rebuild/
 
 Five ideas to unlock more revenue from the traffic Kindroid already has, plus a clickable prototype of the iOS onboarding and trial sheet rebuilt in Kindroid's own design. Only the order of the screens changed. On a phone, open the link with `?open=proto` to land straight on the prototype.
 
